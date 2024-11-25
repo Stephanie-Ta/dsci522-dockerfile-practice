@@ -1,0 +1,6 @@
+name: '522_2'
+channels:
+  - conda-forge
+dependencies:
+  - numpy==2.1.3
+  - pandas==2.2.3
